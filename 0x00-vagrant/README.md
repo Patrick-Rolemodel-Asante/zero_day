@@ -1,0 +1,1 @@
+add readme to 0x00-vagrant
